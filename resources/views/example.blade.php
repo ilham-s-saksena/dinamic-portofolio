@@ -7,6 +7,8 @@
         <meta name="description" content="Backend Developer dengan keahlian dalam pemrograman PHP, Framework Laravel, dan konsep Rest API/Restful API.">
         
         <meta name="author" content="Ilham Sidik Saksena">
+
+        <link rel="stylesheet" href="/lib/main.css">
     
         @vite(['resources/css/app.css', 'resources/js/app.js'])
         
