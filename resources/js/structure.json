@@ -1,0 +1,76 @@
+{
+    "social_media": [
+        {
+            "name": "instagram",
+            "username": "hammm.70",
+            "link": "https://instagram.com/hammm.70"
+        }
+    ],
+    "education": [
+        {
+            "name": "universitas harapan bangsa",
+            "logo": "/arsip/education/uhb.png",
+            "year": "2021-2025",
+            "major": "S1 Teknologi Informasi",
+            "description": "Mahasiswa Jurusan S1 Teknologi Informasi di Perguruan Tinggi Swasta Universitas Harapan Bangsa",
+            "link": "https://uhb.ac.id"
+        }
+    ],
+    "organization": [
+        {
+            "name": "teater kanvas",
+            "logo": "/arsip/organization/teater.png",
+            "year": "2018-2021",
+            "position": "Ketua Organisasi",
+            "description": "Ketua Organisasi Teater Kanvas dan pernah meraih Prestasi di tingkat Provinsi: Juara 3 Monolog dan Juara 1 Film Pendek",
+            "link": null
+        },
+        {
+            "name": "himatifor",
+            "logo": "/arsip/organization/hima.png",
+            "year": "2022-2024",
+            "position": "Ketua Organisasi",
+            "description": "Menjadi Pembentuk sekaligus Ketua Pertama di Himpunan Mahasiswa Teknologi Informasi Universitas Harapan Bangsa",
+            "link": null
+        }
+    ],
+    "hard_skill": [
+        {
+            "name": "Docker",
+            "logo": "/arsip/logos/Docker.png",
+            "level": "amateur",
+            "description": "Mampu menggunakan Docker dalam proses pengembangan aplikasi yang terisolasi"
+        },
+        {
+            "name": "Laravel",
+            "logo": "public/arsip/logos/Laravel.png",
+            "level": "Intermediate",
+            "description": "Expert dalam pemrograman PHP dan memahami dengan baik ekosistem Framework Laravel"
+        }
+    ],
+    "experience": [
+        {
+            "company": "CV Anugerah Wijaya",
+            "name": "Computer Network Technician",
+            "year": "December 2019 - April 2020",
+            "description": "Menjadi teknisi Komputer dan Jaringan di perusahaan Internet Provider, Melakukan Instalasi WiFi, Perbaikan Jaringan dan Komputer, Merakit PC, Membangun tower segitiga untuk antena jaringan internet, "
+
+        },
+        {
+            "company": "PKBM Harapan Bangsa",
+            "name": "Computer Teacher",
+            "year": "May 2022 - June 2024 ",
+            "description": "Sebagai lulusan Teknologi Informasi, saya juga mulai mendalami peran guru komputer di lembaga pendidikan nonformal."
+
+        }
+    ],
+    "data": [
+        {
+            "name": "Harapan Bangsa PKBM school information system",
+            "date": "November 2023",
+            "detail": "Membangunan dari awal sebuah Sistem Informasi Sekolah yang komprehensif seorang diri. Sistem ini mencakup beberapa fitur utama, yaitu absensi siswa yang menggunakan QR Code, jurnal mengajar untuk para tutor, pembayaran SPP siswa, serta sistem penggajian karyawan. Untuk pengembangan backend, saya menggunakan framework Laravel, sementara tampilan antarmuka dibangun menggunakan framework TailwindCSS. Selain itu, sistem ini juga dilengkapi dengan layanan web yang dapat mengirim dan menerima API pada aplikasi Android yang digunakan oleh para tutor.",
+            "image": "/arsip/portofolio/1.png",
+            "link": ""
+        }
+    ]
+}
