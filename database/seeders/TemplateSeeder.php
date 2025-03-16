@@ -4,6 +4,7 @@ namespace Database\Seeders;
 
 use App\Models\Template;
 use Illuminate\Database\Seeder;
+use function Laravel\Prompts\select;
 
 class TemplateSeeder extends Seeder
 {
@@ -16,7 +17,10 @@ class TemplateSeeder extends Seeder
             'id' => '01958166-bab4-73e6-97c6-fd35dba2a875',
             'name' => 'dafault',
             'structure' => json_encode([
-                "color" => "select",
+                "color" => [
+                    "type" => "select",
+                    "option" => ["blue", "indigo", "violet"]
+                ],
                 "social_media" => [
                     "name" => "select",
                     "option" => ["instagram", "linkedin", "email", "github"],
